@@ -93,7 +93,7 @@ export const About = () => {
                     <ul className="list-disc list-inside text-gray-300 space-y-2">
                         <li>
                             <strong>
-                                M.S. in Spatial Analysis
+                                MSA in Spatial Analysis
                             </strong> - Toronto Metropolitan University (2023-2024)
                         </li>
                         <li>
