@@ -97,7 +97,7 @@ export const About = () => {
                             </strong> - Toronto Metropolitan University (2023-2024)
                         </li>
                         <li>
-                            Relevant Coursework: Remote Sensing and Spatial Analysis, Spatial Analysis of Land Resources, Applied Spatial Statistics, Database Management, Database Management and Spatial Technologies
+                            Relevant Coursework: Remote Sensing and Spatial Analysis, Spatial Analysis of Land Resources, Applied Spatial Statistics, Database Management and Spatial Technologies
                         </li>
                         <li>
                             <strong>
