@@ -2,7 +2,7 @@ import { RevealOnScroll } from "../RevealOnScroll";
 export const About = () => {
 
         const programmingLanguages = ["Python", "R", "SQL"];
-        const techSkills = ["ArcGIS Pro", "QGIS", "FME", "SNAP", "Google Earth Engine", "Excel", "Git", "Tensorflow", "Keras", "Pytorch", "MySQL", "Postgres"];
+        const techSkills = ["ArcGIS Pro", "QGIS", "FME", "SNAP", "Blender", "Google Earth Engine", "Excel", "Git", "Tensorflow", "Keras", "Pytorch", "MySQL", "Postgres"];
         const imageriesHandled = ["LiDAR", "Synthetic Aperture Radar (Sentinel 1)", "Landsat", "Optical (Sentinel 2)"]
         
     return (

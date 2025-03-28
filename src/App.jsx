@@ -13,6 +13,7 @@ import { PoValleyDeformation } from "./components/sections/Individual Projects/P
 import { SocioEconomicPatternAnalysis } from "./components/sections/Individual Projects/Socio-Economic-Pattern-Analysis";
 import { AllanCanopyDynamics } from "./components/sections/Individual Projects/AllanCanopyDynamics";
 import { UrbanSprawlAnalysis } from "./components/sections/Individual Projects/UrbanSprawlAnalysis";
+import { Mallorca3DModel } from "./components/sections/Individual Projects/Mallorca3dModelling";
 
 function App() {
   const [isLoaded, setIsLoaded] = useState(false);
@@ -36,6 +37,7 @@ function App() {
       <SocioEconomicPatternAnalysis />
       <AllanCanopyDynamics />
       <UrbanSprawlAnalysis />
+      <Mallorca3DModel />
 
     </div>
     
