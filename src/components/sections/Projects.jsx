@@ -58,7 +58,7 @@ export const Projects = () => {
                 Leveraging SBAS and PS-InSAR, five years (2019–2024) of ground deformation in Mexico City were analyzed to pinpoint vulnerable buildings.
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
-                    {["Python", "ArcGIS Pro"].map((tech, key) => (
+                    {["Python", "ArcGIS Pro", "QGIS", "Blender"].map((tech, key) => (
                     <span
                         key={key}
                         className="bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20 
